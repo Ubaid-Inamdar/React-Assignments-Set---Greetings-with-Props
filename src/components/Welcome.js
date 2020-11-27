@@ -2,8 +2,8 @@
 import React from "react";
 const name = (props) => (
   <>
-    <h1>Hey ! {props.name} </h1>
-    <h2> Welcome to Newton School.</h2>
+    <h1>Hey !{props.name}</h1>
+    <h2>Welcome to Newton School.</h2>
   </>
 );
 
